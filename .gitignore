@@ -1,0 +1,44 @@
+# Audit workspaces contain billing data, IDs and names - never commit.
+/audits/*
+!/audits/README.md
+!/audits/README.ru.md
+# Databricks connection settings (host / warehouse only; tokens stay in session / env).
+!/audits/_settings.json
+
+# Audit-local temporary data (also covered by /audits/* for workspaces)
+/audits/_logs/
+
+# Editor / tool state
+.obsidian/
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+dist/
+build/
+*.egg-info/
+
+# Logs and scratch (repo root and elsewhere)
+*.log
+*.tmp
+*.temp
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.token
+*.secret

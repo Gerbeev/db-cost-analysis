@@ -1,0 +1,10 @@
+---
+description: Use ASCII hyphen only; never em/en dashes in project text
+alwaysApply: true
+---
+
+# Dashes
+
+Project rule ([reference/13_punctuation.md](../reference/13_punctuation.md)): use only ASCII `-` (U+002D).
+
+Never write U+2013 (en dash) or U+2014 (em dash) in Markdown, Python, JavaScript, UI strings, comments, or templates. Replace ranges and breaks with hyphen: `02-07`, `A - B`.

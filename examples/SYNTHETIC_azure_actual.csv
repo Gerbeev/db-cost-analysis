@@ -1,0 +1,31 @@
+Date,CostInBillingCurrency,BillingCurrencyCode,ServiceName,MeterName,ResourceGroup,ResourceId,SubscriptionId,ChargeType
+2026-01-15,450,EUR,Virtual Machines,D-Series VMs,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/vm-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-01-15,280,EUR,Azure Databricks,Databricks Usage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/dbu-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-01-15,80,EUR,Storage,Blob Storage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/storage-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-02-15,460,EUR,Virtual Machines,D-Series VMs,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/vm-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-02-15,285,EUR,Azure Databricks,Databricks Usage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/dbu-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-02-15,80,EUR,Storage,Blob Storage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/storage-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-03-15,470,EUR,Virtual Machines,D-Series VMs,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/vm-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-03-15,310,EUR,Azure Databricks,Databricks Usage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/dbu-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-03-15,82,EUR,Storage,Blob Storage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/storage-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-04-15,750,EUR,Virtual Machines,D-Series VMs,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/vm-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-04-15,470,EUR,Azure Databricks,Databricks Usage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/dbu-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-04-15,85,EUR,Storage,Blob Storage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/storage-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-05-15,770,EUR,Virtual Machines,D-Series VMs,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/vm-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-05-15,465,EUR,Azure Databricks,Databricks Usage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/dbu-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-05-15,87,EUR,Storage,Blob Storage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/storage-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-06-15,755,EUR,Virtual Machines,D-Series VMs,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/vm-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-06-15,475,EUR,Azure Databricks,Databricks Usage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/dbu-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-06-15,90,EUR,Storage,Blob Storage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/storage-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-07-15,790,EUR,Virtual Machines,D-Series VMs,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/vm-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-07-15,490,EUR,Azure Databricks,Databricks Usage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/dbu-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-07-15,95,EUR,Storage,Blob Storage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/storage-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-08-15,805,EUR,Virtual Machines,D-Series VMs,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/vm-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-08-15,500,EUR,Azure Databricks,Databricks Usage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/dbu-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-08-15,100,EUR,Storage,Blob Storage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/storage-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-09-15,820,EUR,Virtual Machines,D-Series VMs,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/vm-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-09-15,515,EUR,Azure Databricks,Databricks Usage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/dbu-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-09-15,104,EUR,Storage,Blob Storage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/storage-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-10-15,840,EUR,Virtual Machines,D-Series VMs,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/vm-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-10-15,525,EUR,Azure Databricks,Databricks Usage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/dbu-synthetic,SYNTHETIC-EXAMPLE,Usage
+2026-10-15,106,EUR,Storage,Blob Storage,rg-SYNTHETIC-EXAMPLE,/subscriptions/SYNTHETIC-EXAMPLE/resourceGroups/rg-SYNTHETIC-EXAMPLE/providers/example/storage-synthetic,SYNTHETIC-EXAMPLE,Usage

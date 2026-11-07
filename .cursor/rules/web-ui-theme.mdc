@@ -1,0 +1,11 @@
+---
+description: Dark/light theme tokens for webapp static UI
+globs: webapp/static/**
+alwaysApply: false
+---
+
+# Web UI theme
+
+Read [reference/12_web_ui_theme.md](../../reference/12_web_ui_theme.md) before editing styles.
+
+Dark mode is **true black** (`#000`), text `#ececec`, hover/active `#212121`, borders `#2f2f2f`, no card shadows, 8px radius, white primary buttons. Use CSS variables in `app.css`; do not introduce blue slate backgrounds or blue active states in dark theme.

@@ -1,0 +1,59 @@
+source_id,title,url,publisher,use_case
+MS-AZ-001,Azure Cost Management Exports,https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-improved-exports,Microsoft,"Azure exports, dataset types, manifests, scope, frequency"
+MS-AZ-002,Cost analysis uses,https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/cost-analysis-common-uses,Microsoft,Actual vs amortized; Cost Analysis procedure
+MS-AZ-003,Group and filter in Cost Analysis,https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/group-filter,Microsoft,"Cost by subscription, resource, meter, tag"
+MS-AZ-004,Cost detail field definitions,https://learn.microsoft.com/en-us/azure/cost-management-billing/automate/understand-usage-details-fields,Microsoft,Azure CSV actual cost schema and fields
+MS-AZ-005,Cost analysis navigation,https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/plan-manage-costs,Microsoft,Azure portal and scope navigation
+MS-AZ-006,Exports supported dataset formats,https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-improved-exports#understand-export-data-types,Microsoft,Actual amortized FOCUS price sheet
+MS-AZ-007,Azure Cost Management cost concepts,https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/understand-cost-mgt-data,Microsoft,Billing and cost data semantics; verify current page
+MS-AZ-008,Azure Databricks pricing,https://azure.microsoft.com/en-us/pricing/details/databricks/,Microsoft,Public rate reference; not a contract invoice
+MS-AZ-009,Azure Storage pricing,https://azure.microsoft.com/en-us/pricing/details/storage/blobs/,Microsoft,ADLS Blob and transaction classes
+MS-AZ-010,Azure bandwidth pricing,https://azure.microsoft.com/en-us/pricing/details/bandwidth/,Microsoft,Data transfer charges
+MS-AZ-011,Azure NAT Gateway pricing,https://azure.microsoft.com/en-us/pricing/details/azure-nat-gateway/,Microsoft,Network gateway capacity and processing charges
+MS-AZ-012,Azure Private Link pricing,https://azure.microsoft.com/en-us/pricing/details/private-link/,Microsoft,Private endpoint and data processing charges
+MS-AZ-013,Azure VM pricing,https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/,Microsoft,Driver and worker VM costs
+MS-AZ-014,Azure Managed Disk pricing,https://azure.microsoft.com/en-us/pricing/details/managed-disks/,Microsoft,Persistent and temporary disk charges
+MS-AZ-015,Azure Cost Management budgets,https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets,Microsoft,Budgets and alerts
+MS-DB-001,Databricks billing usage system table,https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/billing,Microsoft / Databricks,Usage schema record types products metadata retention
+MS-DB-002,Monitor costs with system tables,https://learn.microsoft.com/en-us/azure/databricks/admin/usage/system-tables,Microsoft / Databricks,Usage pricing joins workload attribution
+MS-DB-003,System tables catalog and retention,https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/,Microsoft / Databricks,Global vs regional and retention
+MS-DB-004,Databricks usage dashboards,https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/usage,Microsoft / Databricks,Official usage dashboards
+MS-DB-005,Compute system tables,https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/compute,Microsoft / Databricks,Clusters node timeline instance events pools
+MS-DB-006,Job system tables,https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/jobs,Microsoft / Databricks,Jobs tasks run slices pipelines
+MS-DB-007,Job cost performance query guidance,https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/jobs-cost,Microsoft / Databricks,Limits on job cost attribution
+MS-DB-008,Query history system table,https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/query-history,Microsoft / Databricks,Query metrics scope and limitations
+MS-DB-009,Monitor serverless billing,https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/serverless-billing,Microsoft / Databricks,Serverless job and notebook usage attribution
+MS-DB-010,Classic compute configuration,https://learn.microsoft.com/en-us/azure/databricks/compute/configure,Microsoft / Databricks,Node sizing autoscaling spot and auto-termination
+MS-DB-011,Classic compute management,https://learn.microsoft.com/en-us/azure/databricks/compute/clusters-manage,Microsoft / Databricks,Idle cost auto-termination and compute lifecycle
+MS-DB-012,Compute best practices,https://learn.microsoft.com/en-us/azure/databricks/compute/cluster-config-best-practices,Microsoft / Databricks,Capacity and node optimization
+MS-DB-013,Databricks cost management tools,https://learn.microsoft.com/en-us/azure/databricks/admin/usage/,Microsoft / Databricks,Cost controls tags serverless budgets
+MS-DB-014,Databricks budgets,https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/budgets,Microsoft / Databricks,Budgets and spending scope
+MS-DB-015,Serverless usage policies,https://learn.microsoft.com/en-us/azure/databricks/admin/usage/budget-policies,Microsoft / Databricks,Preview usage tagging and chargeback
+MS-DB-016,Usage attribution and tags,https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/usage-detail-tags,Microsoft / Databricks,Attribution tags and limitations
+MS-DB-017,Audit events system table,https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/audit-logs,Microsoft / Databricks,Change evidence preview regional coverage
+MS-DB-018,SQL serverless setup,https://learn.microsoft.com/en-us/azure/databricks/admin/sql/serverless,Microsoft / Databricks,SQL warehouse serverless prerequisites
+MS-DB-019,Lakeflow serverless pipelines,https://learn.microsoft.com/en-us/azure/databricks/ldp/serverless,Microsoft / Databricks,Pipeline compute and usage policies
+MS-DB-020,System table pricing reference,https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/pricing,Microsoft / Databricks,Effective list price history; verify availability
+MS-IBM-001,IBM Apptio product overview,https://www.ibm.com/products/apptio,IBM,FinOps and TBM context; not another invoice
+MS-FIN-001,FOCUS specification,https://focus.finops.org/,FinOps Foundation,Normalized cost and usage concepts
+IBM-CL-API,Cloudability cost reporting API,https://www.ibm.com/docs/en/cloudability-commercial/cloudability-premium/saas?topic=api-cost-reporting-end-point,IBM,Reporting measures; pagination; views; pre/post-allocation metric behavior
+IBM-CL-AZ,Cloudability connect Microsoft Azure,https://www.ibm.com/docs/en/cloudability-commercial/cloudability-premium/saas?topic=cloudability-connect-microsoft-azure,IBM,Azure export ingestion and linked account scope
+IBM-CL-VIEW,Cloudability views,https://www.ibm.com/docs/en/cloudability-commercial/cloudability-enterprise/saas?topic=administration-create-manage-views,IBM,Scoped reports; view-based visibility
+IBM-CL-BM,Cloudability business mapping,https://www.ibm.com/docs/en/cloudability-commercial/cloudability-enterprise/saas?topic=spend-business-mapping,IBM,Rule order; defaults; dates; reprocessing
+IBM-CL-SHARE,Cloudability cost sharing,https://www.ibm.com/docs/en/cloudability-commercial/cloudability-enterprise/saas?topic=setup-sharing-cost-in-cloudability,IBM,Direct versus shared allocations and cost composition
+IBM-CL-ALLOC,Cloudability allocated projection,https://www.ibm.com/docs/en/cloudability-commercial/cloudability-enterprise/saas?topic=setup-cloudability-cost-sharing-in-cloudability,IBM,Allocated projection; direct vs shared reporting
+IBM-CL-ANOM,Cloudability anomaly detection,https://www.ibm.com/docs/en/cloudability-commercial/cloudability-enterprise/saas?topic=insights-anomaly-detection,IBM,Daily anomaly signals; alert limitations and history
+IBM-CL-MAPAPI,Cloudability business mapping API,https://www.ibm.com/docs/en/cloudability-commercial/cloudability-standard/saas?topic=api-business-mappings-end-point,IBM,Read-only mapping metadata where accessible
+IBM-CL-BUS,Cloudability views and mapping product guide,https://www.ibm.com/products/cloudability/business-mapping,IBM,Categorization; governance; cross-account dimensions
+IBM-CL-COSTSHARE,Cloudability cost sharing guide,https://www.ibm.com/products/cloudability/cost-sharing,IBM,Third-party vendor cost sharing; allocation drivers
+IBM-TBM-DATA,TBM Studio data flow overview,https://www.ibm.com/docs/en/apptio-commercial/tbm-studio/saas?topic=architecture-data-flow-overview,IBM,Data Studio; Model Studio; Report Studio layers
+IBM-TBM-MODEL,TBM Studio model concepts,https://www.ibm.com/docs/en/apptio-gov/tbm-studio/saas?topic=architecture-model-concepts-overview,IBM,Source-to-service allocation model
+IBM-TBM-TRACE,TBM Studio trace cost flows,https://www.ibm.com/docs/en/apptio-commercial/tbm-studio/saas?topic=modeling-trace-cost-flows-through-model,IBM,Trace drivers and model allocation links
+IBM-TBM-METRICS,TBM Studio cost and budget metrics,https://www.ibm.com/docs/en/apptio-commercial/tbm-studio/saas?topic=basics-understand-model-metrics-cost-budget-forecast,IBM,Cost vs Budget vs Forecast meaning
+IBM-TBM-BUILD,TBM Studio build and calculation process,https://www.ibm.com/docs/en/apptio-commercial/tbm-studio/saas?topic=lifecycle-build-calculation-process,IBM,Build freshness and model/report lag
+IBM-TBM-DIAG,TBM Studio diagnostic tools,https://www.ibm.com/docs/en/apptio-gov/tbm-studio/saas?topic=support-diagnostic-tools,IBM,Calculation queue; document history; errors
+IBM-TBM-ALLOC,TBM Studio allocations,https://www.ibm.com/docs/en/apptio-commercial/tbm-studio/saas?topic=reference-allocations,IBM,Distribution methods; unmatched costs; drivers
+IBM-TBM-APPLICATIONS,TBM Studio application costs,https://www.ibm.com/docs/en/apptio-gov/costing-standard/saas?topic=applications-getting-started,IBM,Application TCO; towers and cost sources
+IBM-TBM-BU,TBM Studio business unit reporting,https://www.ibm.com/docs/en/apptio-gov/costing-standard/saas?topic=unit-business-reports,IBM,BU-level showback and allocation
+MS-DB-WAREHOUSES,Databricks SQL warehouse SCD2 configuration system table,https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/warehouses,Microsoft,Warehouse size; type; auto-stop; scale settings; historical configuration
+MS-DB-WAREHOUSE-EVENTS,Databricks SQL warehouse lifecycle event system table,https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/warehouse-events,Microsoft,Start; stop; scaling events and running cluster counts

@@ -1,0 +1,4 @@
+key,expected_source,compared_source,scope_and_metric,period,value_expected,value_compared,difference,explanation_class,evidence_ids,status
+<month; subscription; service>,Azure Actual,Cloudability unblended_cost,<identical scope; View ID; currency>,,,,,SCOPE | TIMING | FX | ADJUSTMENT | METRIC | UNRESOLVED,,UNKNOWN
+<source pool; period>,Cloudability unblended_cost,TBM source table,<model input identity>,,,,,ADDITIONAL_GL | TRANSFORM | DUPLICATION | UNRESOLVED,,UNKNOWN
+<source; target; period>,TBM source node,TBM allocated recipient,<model version; allocation path>,,,,,REDISTRIBUTION | RESIDUAL | UNRESOLVED,,UNKNOWN
